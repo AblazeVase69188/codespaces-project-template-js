@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/1.21.6-pre4.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "1.21.6-pre4";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Wikibreakers",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A community of Wikibreakers, people who are passionate about breaking down barriers to technology and making it accessible to all. This is a place for us to share our knowledge, skills, and experiences.",
+    url: "https://wdf.ink/6OUp",
   },
   {
-    title: "Web Development for Beginners",
+    title: "wikibreakers.com",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A website for Wikibreakers, a community of people who are passionate about breaking down barriers to technology and making it accessible to all. This is a place for us to share our knowledge, skills, and experiences.",
+    url: "https://wdf.ink/6OUp",
   },
   {
-    title: "My Resume Site",
+    title: "Resume Workshop",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A workshop for Wikibreakers to help them create a resume that highlights their skills and experiences. This is a place for us to share our knowledge, skills, and experiences.",
+    url: "https://wdf.ink/6OUp",
   },
 ];
 

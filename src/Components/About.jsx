@@ -16,15 +16,15 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/AMCM_emerald.png";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "emerald appeared in AMCM";
 
 /**
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a Wikibreaker. A Wikibreaker is a person who is passionate about breaking down barriers to technology and making it accessible to all. I have a background in UI/UX design and am always looking for new ways to innovate and improve user experiences.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I believe in the power of technology to change lives for the better. I am committed to using my skills and knowledge to help others achieve their goals and make a positive impact on the world. As a Wikibreaker, I strive to break down barriers and make technology accessible to all.";
 
 const About = () => {
   return (
